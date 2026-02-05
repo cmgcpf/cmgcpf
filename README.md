@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Que du Python mais surtout du Python</h2>
+<h2>Oui</h2>
 
  `discord.py` : Protection contre les raids, abus, liens... <br>
  `IA` : tokenizers BPE, entraînement sur corpus textuels.
@@ -18,9 +18,8 @@
 <div align="center">
 
 [![Python](https://skillicons.dev/icons?i=python)]()  &nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)]()  &nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)]()  &nbsp;
-[![NODEJS](https://skillicons.dev/icons?i=nodejs)]()&nbsp;
+[![Rust](https://skillicons.dev/icons?i=rust)]()  &nbsp;
+[![C#](https://skillicons.dev/icons?i=cs)]()  &nbsp;
 
 </div>
 
@@ -29,8 +28,8 @@
 <div align="center">
 
 [![PYCHARM](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm)  &nbsp;
-[![VSCODE](https://skillicons.dev/icons?i=vscode)]()  &nbsp;
-[![WEBSTORM](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm)  &nbsp;
+[![RIDER](https://skillicons.dev/icons?i=rider)](https://www.jetbrains.com/rider)  &nbsp;
+[![UNITY](https://skillicons.dev/icons?i=unity)](https://www.unity.com)  &nbsp;
 
 </div>
 
