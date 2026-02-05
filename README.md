@@ -29,7 +29,8 @@
 
 [![PYCHARM](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm)  &nbsp;
 [![RIDER](https://skillicons.dev/icons?i=rider)](https://www.jetbrains.com/rider)  &nbsp;
-[![UNITY](https://skillicons.dev/icons?i=unity)](https://www.unity.com)  &nbsp;
+[![UNITY](https://skillicons.dev/icons?i=unity)](https://www.unity.com)  &nbsp; 
+[![VSCODE](https://skillicons.dev/icons?i=vscode)]() &nbsp; 
 
 </div>
 
