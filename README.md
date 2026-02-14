@@ -1,8 +1,8 @@
 <div align="center">
 <h2>Oui</h2>
 
- `discord.py` : Protection contre les raids, abus, liens... <br>
- `IA` : tokenizers BPE, entraînement sur corpus textuels.
+ `discord.py` : Protection <br>
+ `IA` : LSTM, RNN, MT
 </div>
 
 ---
